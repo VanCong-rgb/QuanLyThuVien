@@ -10,6 +10,7 @@ package btt2;
 public class BTT2 {
    public static void main(String[] args) {
          System.out.println("Luong Van Cong");
+         System.out.println("Luong Van Cong");
     }
 }
    
